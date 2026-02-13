@@ -1,5 +1,4 @@
 # AssetTMS
-jsp and servlet Asset Tracking Mangement System
 AssetTMS is a Java web application developed using Servlets, JSP, and JDBC for managing organizational assets.
 It performs CRUD operations and stores asset details securely in a MySQL database.
 <img width="788" height="239" alt="image" src="https://github.com/user-attachments/assets/aaa54a32-9646-4ef5-a5ce-18e36a395697" />
